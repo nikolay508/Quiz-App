@@ -1,0 +1,1 @@
+This project represents a quiz app so you can test your knowledge. Once you have chosen an option, it shows you if it is right. There is a couple questions and after you amswer them correct or not it says how many points you earned! 
