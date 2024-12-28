@@ -19,3 +19,4 @@ View your total score at the end of the quiz to see how much you’ve earned!<br
 Test your sports knowledge and challenge your friends with this easy-to-use quiz app! <hr>
 
 ### Here you can briefly see how it works: <br>
+<img width="1459" alt="Screenshot 2024-12-29 at 0 36 00" src="https://github.com/user-attachments/assets/8e79595b-49de-4ccb-a3f5-9275fba3d478" />
